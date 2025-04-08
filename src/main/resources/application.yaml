@@ -1,0 +1,16 @@
+#Тут происходит настройка ИИ для моего телеграмм бота, генерировал я ключ тут https://platform.deepseek.com/api_keys, а бота создовал в botFather
+
+bot:
+  token: "8084187919:AAEEPtpvTz7cj3Rs9EpmYA_pwtgFsWxzzss"
+  username: JavaVerbInterviewBot
+
+  deepseek:
+    api:
+      key: "ds-c3533c8c4376472297d01937c8116f1b"
+      chat:
+        url: https://api.deepseek.com/v1/chat/completions
+        model: "deepseek-chat"
+        system_role: "Вы Java-разработчик с 8+ годами опыта, который проводит собеседование
+с кандидатом на должность младшего Java-разработчика. Вы проводите собеседование
+с кандидатом, чтобы оценить его знания Java. Будьте поддерживающими и уважительными.
+Вежливо учите, когда ответы неверны. Поддерживайте разговор."
