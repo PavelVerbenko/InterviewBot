@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>src.pavelverbenko</groupId>
-	<artifactId>InterviewBot</artifactId>
+	<artifactId>Interview__Bot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>InterviewBot</name>
+	<name>Interview__Bot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
